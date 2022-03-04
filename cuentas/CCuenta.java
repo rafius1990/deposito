@@ -1,3 +1,12 @@
+/**
+ * ESta clase simula el saldo de una cuenta bancaria
+ * @author debian Rafael
+ * @version 1.0
+ * @since 27-02-2022
+ * 
+ * */
+
+
 package cuentas;
 public class CCuenta {
 	 private String casa2;
