@@ -9,7 +9,8 @@
 
 package cuentas;
 public class CCuenta {
-	
+	private String casa4;
+	 private String casa3;
 	 private String casa2;
 	 private String casa;
     private String nombre;
